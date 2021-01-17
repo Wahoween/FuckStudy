@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FuckStudy.iml" filepath="$PROJECT_DIR$/.idea/FuckStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicJava/basicJava.iml" filepath="$PROJECT_DIR$/basicJava/basicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubboProvider/dubboProvider.iml" filepath="$PROJECT_DIR$/dubbo/dubboProvider/dubboProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubboComsumer/dubboconsumer.iml" filepath="$PROJECT_DIR$/dubbo/dubboComsumer/dubboconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring4/spring4.iml" filepath="$PROJECT_DIR$/spring/spring4/spring4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot/springBoot2/springboot2.iml" filepath="$PROJECT_DIR$/springBoot/springBoot2/springboot2.iml" />
+    </modules>
+  </component>
+</project>

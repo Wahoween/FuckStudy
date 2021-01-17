@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/basicJava/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/dubboComsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/dubboProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/spring4/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot/springBoot2/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
