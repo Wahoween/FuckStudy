@@ -1,4 +1,4 @@
-package com.whw;
+package com.fuckstudy;
 
 /**
  * Hello world!

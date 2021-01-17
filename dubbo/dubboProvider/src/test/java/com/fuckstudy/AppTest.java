@@ -1,4 +1,4 @@
-package com.whw;
+package com.fuckstudy;
 
 import static org.junit.Assert.assertTrue;
 
