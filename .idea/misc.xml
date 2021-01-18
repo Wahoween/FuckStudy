@@ -4,10 +4,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/basicJava/pom.xml" />
-        <option value="$PROJECT_DIR$/dubbo/dubboComsumer/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo/dubboProvider/pom.xml" />
         <option value="$PROJECT_DIR$/spring/spring4/pom.xml" />
         <option value="$PROJECT_DIR$/springBoot/springBoot2/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/dubboComsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-ui/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/pom.xml" />
       </list>
     </option>
   </component>

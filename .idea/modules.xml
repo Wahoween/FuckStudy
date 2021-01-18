@@ -4,8 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FuckStudy.iml" filepath="$PROJECT_DIR$/.idea/FuckStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicJava/basicJava.iml" filepath="$PROJECT_DIR$/basicJava/basicJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo/dubboComsumer/dubboConsumer.iml" filepath="$PROJECT_DIR$/dubbo/dubboComsumer/dubboConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-distribution/dubbo-admin-distribution.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-distribution/dubbo-admin-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-test/dubbo-admin-test.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-test/dubbo-admin-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-ui/dubbo-admin-ui.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-ui/dubbo-admin-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubboApi/dubboApi.iml" filepath="$PROJECT_DIR$/dubbo/dubboApi/dubboApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubboProvider/dubboProvider.iml" filepath="$PROJECT_DIR$/dubbo/dubboProvider/dubboProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubboComsumer/dubbocomsumer.iml" filepath="$PROJECT_DIR$/dubbo/dubboComsumer/dubbocomsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring4/spring4.iml" filepath="$PROJECT_DIR$/spring/spring4/spring4.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBoot/springBoot2/springboot2.iml" filepath="$PROJECT_DIR$/springBoot/springBoot2/springboot2.iml" />
     </modules>

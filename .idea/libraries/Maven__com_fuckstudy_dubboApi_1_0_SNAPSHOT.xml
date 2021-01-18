@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fuckstudy:dubboApi:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://F:/Apache/apache-maven-3.6.3/rep/com/fuckstudy/dubboApi/1.0-SNAPSHOT/dubboApi-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://F:/Apache/apache-maven-3.6.3/rep/com/fuckstudy/dubboApi/1.0-SNAPSHOT/dubboApi-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://F:/Apache/apache-maven-3.6.3/rep/com/fuckstudy/dubboApi/1.0-SNAPSHOT/dubboApi-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
