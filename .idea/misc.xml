@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/dubbo/dubboComsumer/pom.xml" />
         <option value="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-ui/pom.xml" />
         <option value="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo/dubboApi/pom.xml" />
       </list>
     </option>
   </component>

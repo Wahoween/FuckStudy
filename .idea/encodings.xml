@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/basicJava/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubboApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo/dubboApi/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubboComsumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubboComsumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo/dubboProvider/src/main/java" charset="UTF-8" />
@@ -10,9 +11,5 @@
     <file url="file://$PROJECT_DIR$/spring/spring4/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springBoot/springBoot2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springBoot/springBoot2/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-server/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-server/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-test/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-test/src/main/resources" charset="UTF-8" />
   </component>
 </project>

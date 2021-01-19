@@ -6,17 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dubbo-admin-test" />
         <module name="dubboConsumer" />
         <module name="basicJava" />
         <module name="spring4" />
         <module name="dubboProvider" />
         <module name="dubbo-admin-ui" />
-        <module name="dubbo-admin-distribution" />
         <module name="dubbocomsumer" />
         <module name="dubboApi" />
         <module name="springboot2" />
-        <module name="dubbo-admin-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

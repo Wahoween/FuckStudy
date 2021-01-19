@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: com.google.guava:guava:27.0.1-jre">
     <CLASSES>
-      <root url="jar://F:/Apache/apache-maven-3.6.3/rep/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Apache/apache-maven-3.6.1/Repository/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://F:/Apache/apache-maven-3.6.3/rep/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Apache/apache-maven-3.6.1/Repository/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://F:/Apache/apache-maven-3.6.3/rep/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Apache/apache-maven-3.6.1/Repository/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
