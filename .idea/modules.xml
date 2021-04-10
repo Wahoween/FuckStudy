@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-distribution/dubbo-admin-distribution.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-distribution/dubbo-admin-distribution.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-test/dubbo-admin-test.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-test/dubbo-admin-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-ui/dubbo-admin-ui.iml" filepath="$PROJECT_DIR$/../dubbo-admin/dubbo-admin-develop/dubbo-admin-ui/dubbo-admin-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubboApi/dubboApi.iml" filepath="$PROJECT_DIR$/dubbo/dubboApi/dubboApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubboProvider/dubboProvider.iml" filepath="$PROJECT_DIR$/dubbo/dubboProvider/dubboProvider.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo/dubboComsumer/dubbocomsumer.iml" filepath="$PROJECT_DIR$/dubbo/dubboComsumer/dubbocomsumer.iml" />
