@@ -15,7 +15,7 @@ public class HelloWorldController {
 
     @RequestMapping( "/hello")
     @ResponseBody
-    private String consumerController(@RequestParam("word")  String word){
+    private String consumerController(@RequestParam("word")  String word) throws Exception {
         System.out.println("word = " + word);
         return providerService.sayHello(word);
     }
